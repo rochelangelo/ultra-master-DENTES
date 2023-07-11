@@ -1,5 +1,7 @@
 # ultra-master-DENTES 👨‍⚕️🦷
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4965ec17984a4108a1b1a96bcb3fd715)](https://app.codacy.com/gh/rochelangelo/ultra-master-DENTES?utm_source=github.com&utm_medium=referral&utm_content=rochelangelo/ultra-master-DENTES&utm_campaign=Badge_Grade)
+
 :octocat: Integrantes:\
 [Erik César](https://github.com/Kire87) | [Izabel Nascimento](https://github.com/izabelnascimento) | [Lucas Branco](https://github.com/LBranco27) | [Luís Guilherme](https://github.com/Nidhoggui) |[Rochel Angelo](https://github.com/rochelangelo)
 
